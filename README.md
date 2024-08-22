@@ -53,4 +53,4 @@ Contributions to the American Dietitians Backend are welcome! If you find any is
 
 ## Conclusion
 
-The American Dietitians Backend provides a robust and scalable server-side solution for the American Dietitians website. It offers a secure and efficient way to manage user authentication, dietitians profiles, and search functionality. For any inquiries or support, please contact the developer at ronanlee0105@gmail.com.
+The American Dietitians Backend provides a robust and scalable server-side solution for the American Dietitians website. It offers a secure and efficient way to manage user authentication, dietitians profiles, and search functionality. For any inquiries or support, please contact the developer at ronanlee777@gmail.com.
